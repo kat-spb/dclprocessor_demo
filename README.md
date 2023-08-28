@@ -1,2 +1,2 @@
 # dclprocessor_demo
-Open prorotype for icecet2923
+Opensource part of prorotype for ICECET 2023 conference
