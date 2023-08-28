@@ -1,0 +1,11 @@
+{
+  "dclprocessor": {
+    "use_shmem": 1,
+    "shmem_segment_name": "/commonsegment",
+    "shmem_segment_size": 65535,
+    "pipeline_config": "..\/dclcomponents\/config\/pipeline_default.json",
+    "collector_config": "..\/dclcomponents\/config\/collector_tcp1.json",
+    "messenger": {
+    }
+  }
+}

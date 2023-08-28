@@ -1,0 +1,26 @@
+{
+    "collector_config": null,
+    "collector": {
+        "boost_path": "boostsegment",
+        "boost_size": 2000000000,
+        "sources_config": null,
+        "sources": [
+            {
+                "type": "tcp",
+                "id_string": null,
+                "host": "localhost",
+                "port": "9000",
+                "frame": {
+                    "width": 960,
+                    "height": 1920,
+                    "format": 3
+                },
+                "output_path": "/tmp/tmk/data_9000",
+                "source_config": null
+            }
+        ],
+        "max_frames_count": 1000,
+        "object_data_size": 512,
+        "output_path": "/tmp/tmk/data"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "server": {
+        "id": 0,
+        "name": null,
+        "parameters": [],
+        "type": "LAST",
+        "next_id": null
+    },
+    "first": {
+        "id": 1,
+        "name": "bin/tmk-capturer",
+        "parameters": [],
+        "type": "FIRST",
+        "next_id": 2
+    },
+    "middle": {
+        "id": 2,
+        "name": "bin/tmk-filter",
+        "parameters": [],
+        "type": "MIDDLE",
+        "next_id": 0
+    }
+}
+

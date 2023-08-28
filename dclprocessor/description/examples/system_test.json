@@ -1,0 +1,8 @@
+{
+  "dclprocessor": {
+    "pipeline_config": "..\/..\/..\/config\/pipeline_default_new.json",
+    "collector_config": "..\/..\/..\/config\/collector_default_tcp.json",
+    "messenger": {
+    }
+  }
+}
